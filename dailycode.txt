@@ -1,2 +1,5 @@
 The programming is a set of
-instruction
+instruction.
+human language --> java,c++,python etc.
+machine language--> 0,1..
+
